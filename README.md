@@ -14,9 +14,8 @@ Summary: Package designed to be used with Rscript to write ``#!'' shebang script
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-getopt-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-getopt-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-getopt-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-getopt-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-getopt-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-getopt-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-getopt-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-getopt-feedstock)
 
 Current release info
 ====================
