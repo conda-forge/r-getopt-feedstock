@@ -1,11 +1,11 @@
-About r-getopt
-==============
+About r-getopt-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-getopt-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/trevorld/getopt
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-getopt-feedstock/blob/main/LICENSE.txt)
 
 Summary: Package designed to be used with Rscript to write ``#!'' shebang scripts that accept short and long flags/options. Many users will prefer using instead the packages optparse or argparse which add extra features like automatically generated help option and usage, support for default values, positional argument support, etc.
 
