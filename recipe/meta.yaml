@@ -1,4 +1,4 @@
-{% set version = "1.20.3" %}
+{% set version = "1.20.4" %}
 
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
@@ -14,11 +14,11 @@ source:
     - https://cran.r-project.org/src/contrib/Archive/getopt/getopt_{{ version }}.tar.gz
 
 
-  sha256: 531f5fdfdcd6b96a73df2b39928418de342160ac1b0043861e9ea844f9fbf57f
+  sha256: 87d36cbe6dba41dbc1d78d845210266cdd08c7440d977d738a6e45db14221e8b
 
 build:
   noarch: generic
-  number: 4
+  number: 0
 
 
   rpaths:
